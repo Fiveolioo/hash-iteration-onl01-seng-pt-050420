@@ -10,5 +10,6 @@ def happy_birthday(birthday_kids)
   end
 end
 
-def age_appropriate
-  if 
+def age_appropriate(kids)
+puts kids
+end
